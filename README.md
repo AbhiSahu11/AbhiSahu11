@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Smriti Gupta</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Sahu</h1>
 <h3 align="center">A passionate software tester</h3>
 
 - 🔭 I’m currently working on **manual testing project**
