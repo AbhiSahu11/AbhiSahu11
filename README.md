@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sahu</h1>
-<h3 align="center">A passionate software tester</h3>
+<h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on **manual testing project**
+- 🔭 I’m currently working on **projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
